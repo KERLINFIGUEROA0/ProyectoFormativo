@@ -94,4 +94,11 @@ npm run dev
 
 
 
+Hecho por
+Andres felipe Orlando peña
+Juan Camilo Brand
+Julian David Rojas
+Kerlin Jerlen Figueroa  
+Einer David Sanchez
+Juan Esteban Zemanate
 
